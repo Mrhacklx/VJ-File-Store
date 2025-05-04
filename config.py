@@ -29,7 +29,7 @@ BOT_USERNAME = environ.get("BOT_USERNAME", "XYZ_Pro_bot") # without @
 PORT = environ.get("PORT", "8080")
 
 # Clone Info :-
-CLONE_MODE = bool(environ.get('CLONE_MODE', False)) # Set True or False
+CLONE_MODE = bool(environ.get('CLONE_MODE', True)) # Set True or False
 
 # If Clone Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
 CLONE_DB_URI = environ.get("CLONE_DB_URI", "mongodb+srv://clonexyz:clonexyz@cluster0.ivwcmgb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
@@ -81,7 +81,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("URL", "https://testofvjfilter-1fa60b1b8498.herokuapp.com/")
+URL = environ.get("URL", "https://middle-jesse-chatbot1-29d9b0bf.koyeb.app/")
 
 
 # Don't Remove Credit Tg - @VJ_Botz
