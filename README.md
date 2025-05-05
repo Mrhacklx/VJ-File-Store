@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-FILE-STORE-BOT Logo">
-</p>
-<h1 align="center">
-  VJ FILE STORE BOT
-</h1>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Tech_VJ!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Thank+You!)
-</p>
-
-### Deploy Tutorial [Video Link](https://youtu.be/VxAn9VcYtQg)
 
 ## Features
 
@@ -85,31 +74,18 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/Kingvj01)
+💝 Credit Goes To [Tech VJ](https://telegram.me/Mr_attherate)
 
-🖍️ This Code Is Fully Written Or Coded And Public By [Tech VJ](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
+🖍️ This Code Is Fully Written Or Coded And Public By [Mr_attherate](https://telegram.me/Mr_attherate) So Don't Forgot To Give Credit
 
 💖 And Thank You So Much To All Who Help In This Journey 💕
 
-Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+Copyright ©️ [Mr_attherate](https://telegram.me/Mr_attherate)
 
 </b>
-</details>
-
-## About Owner 
-
-<b><details><summary>Tap On Me For See Details Of Owner</summary>
-
-- YouTube Channel : [Tech VJ](https://youtube.com/@Tech_VJ)
-- Telegram Channel : [VJ Botz](https://telegram.me/VJ_Botz)
-- Contact Link : [King VJ](https://telegram.me/Kingvj01)
-- Instagram Id Link : [Tech VJ](https://instagram.com/tech.vj)
-
-</b>
-</details>
 
 
-### Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
 
-<b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
+### Copyright ©️ [Mr_attherate](https://telegram.me/Mr_attherate)
+
 
