@@ -74,7 +74,6 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/Mr_attherate)
 
 🖍️ This Code Is Fully Written Or Coded And Public By [Mr_attherate](https://telegram.me/Mr_attherate) So Don't Forgot To Give Credit
 
